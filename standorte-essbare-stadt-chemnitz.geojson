@@ -3,12 +3,27 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "popup-text": "Knappteich"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           12.960766553878784,
           50.83447690996062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popup-text": "Nachbarschaftsgarten Zietenaugust"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.939603924751282,
+          50.83144119255431
         ]
       }
     }
