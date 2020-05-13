@@ -4,6 +4,11 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "popup-text": "Knappteich"
       },
       "geometry": {
@@ -17,6 +22,11 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "popup-text": "Nachbarschaftsgarten Zietenaugust"
       },
       "geometry": {
