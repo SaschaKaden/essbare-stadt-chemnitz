@@ -4,11 +4,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#46962b",
         "fill": "#7e7e7e",
         "stroke": "#555555",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "garden",
         "popup-text": "Knappteich"
       },
       "geometry": {
@@ -22,11 +22,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#46962b",
         "fill": "#7e7e7e",
         "stroke": "#555555",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "garden",
         "popup-text": "Nachbarschaftsgarten Zietenaugust"
       },
       "geometry": {
@@ -34,6 +34,42 @@
         "coordinates": [
           12.939603924751282,
           50.83144119255431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#46962b",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "popup-text": "Streuobstwiese Apfel 2000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.959672212600706,
+          50.8600896871872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#46962b",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "popup-text": "Essbarer Nordpark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.926498651504515,
+          50.8513560977155
         ]
       }
     }
